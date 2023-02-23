@@ -1,0 +1,7 @@
+C:\Users\Tiga\source\repos\YKService\YKService-Product\obj\Debug\net7.0\YKService-ProductApi.csproj.AssemblyReference.cache
+C:\Users\Tiga\source\repos\YKService\YKService-Product\obj\Debug\net7.0\YKService-ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiga\source\repos\YKService\YKService-Product\obj\Debug\net7.0\YKService-ProductApi.AssemblyInfoInputs.cache
+C:\Users\Tiga\source\repos\YKService\YKService-Product\obj\Debug\net7.0\YKService-ProductApi.AssemblyInfo.cs
+C:\Users\Tiga\source\repos\YKService\YKService-Product\obj\Debug\net7.0\YKService-ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\Tiga\source\repos\YKService\YKService-Product\obj\Debug\net7.0\YKService-ProductApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tiga\source\repos\YKService\YKService-Product\obj\Debug\net7.0\YKService-ProductApi.MvcApplicationPartsAssemblyInfo.cache
