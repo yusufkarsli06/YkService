@@ -733,11 +733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-Product\\YKService-ProductApi.csproj",
+      "projectUniqueName": "C:\\YKService\\YKService-Product\\YKService-ProductApi.csproj",
       "projectName": "YKService-ProductApi",
-      "projectPath": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-Product\\YKService-ProductApi.csproj",
+      "projectPath": "C:\\YKService\\YKService-Product\\YKService-ProductApi.csproj",
       "packagesPath": "C:\\Users\\Tiga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-Product\\obj\\",
+      "outputPath": "C:\\YKService\\YKService-Product\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tiga\\AppData\\Roaming\\NuGet\\NuGet.Config",

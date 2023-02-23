@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-CustomerApi\\YKService-CustomerApi.csproj": {}
+    "C:\\YKService\\YKService-CustomerApi\\YKService-CustomerApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-CustomerApi\\YKService-CustomerApi.csproj": {
+    "C:\\YKService\\YKService-CustomerApi\\YKService-CustomerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-CustomerApi\\YKService-CustomerApi.csproj",
+        "projectUniqueName": "C:\\YKService\\YKService-CustomerApi\\YKService-CustomerApi.csproj",
         "projectName": "YKService-CustomerApi",
-        "projectPath": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-CustomerApi\\YKService-CustomerApi.csproj",
+        "projectPath": "C:\\YKService\\YKService-CustomerApi\\YKService-CustomerApi.csproj",
         "packagesPath": "C:\\Users\\Tiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-CustomerApi\\obj\\",
+        "outputPath": "C:\\YKService\\YKService-CustomerApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tiga\\AppData\\Roaming\\NuGet\\NuGet.Config",

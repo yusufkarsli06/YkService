@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I5zxGJR2/B0DDkMyS6vj6o0tlxLnmOoS6x2xz0MnmR4InNaKyJrT/DKsyZFZwTLuGO0LGiW8JE7HRJglKicOzA==",
+  "dgSpecHash": "BFJH0q9/PDIM6XuraRmTPrR0aFUJXvfMScetYwQCNZlp6pZXb5/CF1yyifO57xqxZ5HM70jnsA0IoI5J4uFdPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-CustomerApi\\YKService-CustomerApi.csproj",
+  "projectFilePath": "C:\\YKService\\YKService-CustomerApi\\YKService-CustomerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tiga\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Tiga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

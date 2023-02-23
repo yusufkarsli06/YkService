@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OVlvLROFxF93PYRvRQ/SdWRJpP1zPlRBxwbte52vU+K00zBqDvpf23jF5JFvAasLlx3GZy9zHLeR+YXWbffMMg==",
+  "dgSpecHash": "M89C7QEPEChY+PdVEoLFj3Xzm/HSy/NXoC0JcaAbCSah6TQwX6gKuw6nxO1jukLFs86jT941wDxBkRvwmajJpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-Product\\YKService-ProductApi.csproj",
+  "projectFilePath": "C:\\YKService\\YKService-Product\\YKService-ProductApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tiga\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Tiga\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

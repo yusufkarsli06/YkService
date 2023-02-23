@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-ApiGateway\\YKService-ApiGateway.csproj",
+      "projectUniqueName": "C:\\YKService\\YKService-ApiGateway\\YKService-ApiGateway.csproj",
       "projectName": "YKService-ApiGateway",
-      "projectPath": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-ApiGateway\\YKService-ApiGateway.csproj",
+      "projectPath": "C:\\YKService\\YKService-ApiGateway\\YKService-ApiGateway.csproj",
       "packagesPath": "C:\\Users\\Tiga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-ApiGateway\\obj\\",
+      "outputPath": "C:\\YKService\\YKService-ApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tiga\\AppData\\Roaming\\NuGet\\NuGet.Config",

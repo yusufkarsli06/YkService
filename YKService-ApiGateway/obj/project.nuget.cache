@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tte6WTgCTbRzriwhm/6NIrdaVCsDfZCNtcFkjxAUwsCNyOKYr5ZFGyZxLaTeWZ60l2H7sBnjeB4EEEToaq6aUg==",
+  "dgSpecHash": "jDSeKjBGnOZAJ2+DjZj/607M86lGeMs6g02pE3AiGya9XnBL0chgSD2m2sSeY0JbQOjZW/Q1nTPzNcqPswisXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tiga\\source\\repos\\YKService\\YKService-ApiGateway\\YKService-ApiGateway.csproj",
+  "projectFilePath": "C:\\YKService\\YKService-ApiGateway\\YKService-ApiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tiga\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Tiga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
